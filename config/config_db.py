@@ -11,5 +11,13 @@ CREATE TABLE IF NOT EXISTS usuario (
 )
 """)
 
+
+
+
+
+
+
 conn.commit()
 conn.close()
+
+
